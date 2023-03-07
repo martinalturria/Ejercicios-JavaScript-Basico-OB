@@ -1,0 +1,7 @@
+{
+    "rules": {
+        "ecmaVersion": "latest",
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"]
+    }
+}
